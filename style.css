@@ -1,0 +1,189 @@
+.head{
+background-color:#333333;
+    display: flex;
+    
+    padding-bottom:30px;
+    
+}
+
+nav ul li{
+    display: inline;
+    
+}
+
+.n1{
+    margin-left: 65%;
+    padding-top: 25px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #FBB741;
+   padding-right: 8px;
+    font-weight: 800;
+    font-size: 18px;
+   
+
+}
+
+nav ul li a:hover{
+    
+    
+    color: whitesmoke;
+    
+}
+
+.logo{
+    padding: 30px 0px 0px 30px;
+    font-size: 30px;
+    font-weight: 900;
+    color:#fafd48;
+}
+.logo:hover{
+
+    color: #FBB741;
+}
+
+
+#hi{
+
+    text-align: center;
+    background-image: url(games/1.jpg);
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -1px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+
+}
+
+
+.s1{
+
+display: flex;
+
+margin-bottom: 30px;
+
+
+}
+
+.s1a{
+    
+    padding-left: 50px;
+}
+
+
+
+.i1{
+
+    
+    border-radius: 30px;
+    box-shadow: 0px 5px 10px 0px;
+}
+
+.s1b{
+
+
+}
+
+.ar1{
+
+padding: 30px 60px 0px 30px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+
+
+main{
+    background-color:#222222;
+}
+
+
+.s2a{
+
+margin-right: 20px;
+
+}
+
+
+.s3{
+
+
+    background-image: url(games/4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+
+.ti{
+
+text-align: center;
+color: white;
+font-size: 50px;
+font-weight: 800;
+
+
+}
+
+
+.s4{
+    display: flex;
+    padding: 50px;
+}
+
+
+
+.s4a{
+    border-radius: 30px;
+    box-shadow: 0px 5px 10px 0px;
+}
+
+
+.s4c{
+    border-radius: 30px;
+    box-shadow: 0px 5px 10px 0px;
+}
+
+.s4b{
+
+    padding: 30px;
+}
+
+p{
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+.s5{
+    padding: 5px 3px 30px 3px;
+}
+
+
+
+
+
+.foot{text-align: center;
+    padding: 10px;
+
+    background-color:#333333;
+}
+#foot_logo{
+
+    text-align: center;
+    
+    margin: 20px;
+    padding-top: 20px;
+    font-weight: 1000;
+    font-size: 40px;
+    color: white;
+
+}
+#add{
+    color:lavenderblush;
+    font-size: 15px;
+    padding: 5px 0px 25px 15px;
+}
